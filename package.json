@@ -32,7 +32,6 @@
     "optimist": "0.3.4"
   },
   "optionalDependencies":{
-    "zmq": "2.5.1",
     "moment": "1.7.0",
     "redis": "0.8.x",
     "msgpack": "0.1.8",
